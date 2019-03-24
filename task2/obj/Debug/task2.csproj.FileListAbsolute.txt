@@ -1,0 +1,6 @@
+D:\Khalifeh\WEB\MyProject\task2\task2\bin\Debug\task2.exe.config
+D:\Khalifeh\WEB\MyProject\task2\task2\bin\Debug\task2.exe
+D:\Khalifeh\WEB\MyProject\task2\task2\bin\Debug\task2.pdb
+D:\Khalifeh\WEB\MyProject\task2\task2\obj\Debug\task2.exe
+D:\Khalifeh\WEB\MyProject\task2\task2\obj\Debug\task2.pdb
+D:\Khalifeh\WEB\MyProject\task2\task2\obj\Debug\task2.csprojResolveAssemblyReference.cache
